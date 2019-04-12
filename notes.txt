@@ -1,0 +1,15 @@
+# create yarn project
+yarn init
+
+# add express
+yarn add express
+yarn add body-parser
+
+# convert to TS
+yarn add --dev typescript
+yarn add --dev tslint
+yarn add --dev @types/node @types/express
+
+# swagger
+yarn add swagger-ui-express
+yarn add --dev @types/swagger-ui-express
