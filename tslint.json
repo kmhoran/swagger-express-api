@@ -6,7 +6,9 @@
     "jsRules": {},
     "rules": {
         "trailing-comma": [ false ],
-        "object-literal-sort-keys": false
+        "object-literal-sort-keys": [false],
+        "no-console": [true, "warning"],
+        "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore"]
     },
     "rulesDirectory": []
 }
