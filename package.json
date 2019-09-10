@@ -6,7 +6,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "swagger-ui-express": "^4.0.2",
-    "tslint": "^5.15.0"
+    "tslint": "^5.20.0"
   },
   "nodemonConfig": {
     "watch": [
